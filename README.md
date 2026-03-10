@@ -33,3 +33,7 @@ Tradução do modelo conceitual para a estrutura relacional, definindo rigorosam
 
 <img width="876" height="499" alt="DIAGRAMA LOGICO ARTI" src="https://github.com/user-attachments/assets/86ee585f-0734-4d87-8a63-b7d27e2cc6e3" />   : Exportação visual do modelo relacional lógico.
 
+## 👨‍💻 Autor
+
+Projeto desenvolvido por **Iago Nicolas Santos Schwarz**
+
