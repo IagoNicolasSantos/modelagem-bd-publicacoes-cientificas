@@ -30,7 +30,7 @@ Tradução do modelo conceitual para a estrutura relacional, definindo rigorosam
 * <img width="876" height="499" alt="Captura de tela 2026-03-05 172220" src="https://github.com/user-attachments/assets/c1cc265e-d07f-4ad7-ae73-7050ba8a7416" />
 
 ## 📂 Arquivos do Projeto
-  : Exportação visual do DER.
+ <img width="876" height="499" alt="DIAGRAMA CONCEITUAL ARTI" src="https://github.com/IagoNicolasSantos/modelagem-bd-publicacoes-cientificas/blob/main/DIAGRAMA%20CONCEITUAL%20ARTI.png" /> : Exportação visual do DER.
 
 <img width="876" height="499" alt="DIAGRAMA LOGICO ARTI" src="https://github.com/user-attachments/assets/86ee585f-0734-4d87-8a63-b7d27e2cc6e3" />   
 : Exportação visual do modelo relacional lógico.
