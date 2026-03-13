@@ -18,7 +18,7 @@ Nesta etapa, foram mapeadas as entidades principais e suas cardinalidades para a
 * **Periódicos e Editoras:** Um periódico pertence a uma editora, e uma editora pode publicar vários periódicos.
 * **Artigos:** Relacionados estritamente aos periódicos em que foram publicados (com atributos como DOI).
 * **Pesquisadores:** Mapeamento da autoria de artigos (relação N:N, onde um artigo pode ter vários autores, e um autor pode escrever vários artigos, utilizando identificadores como ORCID).
-* <img width="860" height="536" alt="Captura de tela 2026-02-28 210616" src="https://github.com/user-attachments/assets/f4a90d6f-cc3a-4e3b-8f6c-66b528ba52a7" />
+
 
 ### 2. Modelo Lógico
 Tradução do modelo conceitual para a estrutura relacional, definindo rigorosamente:
@@ -29,7 +29,7 @@ Tradução do modelo conceitual para a estrutura relacional, definindo rigorosam
 * <img width="876" height="499" alt="Captura de tela 2026-03-05 172220" src="https://github.com/user-attachments/assets/c1cc265e-d07f-4ad7-ae73-7050ba8a7416" />
 
 ## 📂 Arquivos do Projeto
-<img width="860" height="536" alt="DIAGRAMA CONCEITUAL ARTI" src="https://github.com/user-attachments/assets/36a059dc-c2ac-4253-bc85-96c5556427a1" />   : Exportação visual do DER.
+  : Exportação visual do DER.
 
 <img width="876" height="499" alt="DIAGRAMA LOGICO ARTI" src="https://github.com/user-attachments/assets/86ee585f-0734-4d87-8a63-b7d27e2cc6e3" />   : Exportação visual do modelo relacional lógico.
 
