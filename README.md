@@ -18,7 +18,7 @@ Nesta etapa, foram mapeadas as entidades principais e suas cardinalidades para a
 * **Periódicos e Editoras:** Um periódico pertence a uma editora, e uma editora pode publicar vários periódicos.
 * **Artigos:** Relacionados estritamente aos periódicos em que foram publicados (com atributos como DOI).
 * **Pesquisadores:** Mapeamento da autoria de artigos (relação N:N, onde um artigo pode ter vários autores, e um autor pode escrever vários artigos, utilizando identificadores como ORCID).
-
+<img width="876" height="499" alt="DIAGRAMA CONCEITUAL ARTI" src="file:///C:/Users/Samsung/Pictures/Screenshots/DIAGRAMA%20CONCEITUAL%20ARTI.png" />
 
 
 ### 2. Modelo Lógico
